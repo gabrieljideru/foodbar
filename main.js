@@ -204,6 +204,7 @@ sr.reveal(".home-text", { delay: 300 });
 sr.reveal(".wrapper", { delay: 400 });
 
 sr.reveal(".menu", { delay: 300 });
+sr.reveal(".cartTab", { delay: 400 });
 
 sr.reveal(".wrapper-about", { delay: 300 });
 sr.reveal(".about-text", { delay: 400 });
