@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Capricciosa",
+    "price": 7.99,
+    "image": "p1.png",
+    "desc": "Ingriedents: tomatoes sauce, mozzarella, prosciutto cotto, mushrooms, olives"
+  },
+  {
+    "id": 2,
+    "name": "Pizza Margherita",
+    "price": 6.99,
+    "image": "p1.png",
+    "desc": "Ingriedents: tomatoes sauce, mozzarella, parmesan, basil"
+  },
+  {
+    "id": 3,
+    "name": "Pizza Picante",
+    "price": 7.99,
+    "image": "p1.png",
+    "desc": "Ingriedents: tomatoes sauce, Hot Soppressata, mozzarella, oregano"
+  }
+]
