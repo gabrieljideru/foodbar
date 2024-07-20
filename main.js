@@ -190,26 +190,3 @@ const initApp = () => {
 };
 
 initApp();
-
-// Scroll Reveal
-
-const sr = ScrollReveal({
-  origin: "top",
-  distance: "85px",
-  duration: 2500,
-  reset: true,
-});
-
-sr.reveal(".home-text", { delay: 300 });
-sr.reveal(".wrapper", { delay: 400 });
-
-sr.reveal(".menu", { delay: 300 });
-sr.reveal(".cartTab", { delay: 400 });
-
-sr.reveal(".wrapper-about", { delay: 300 });
-sr.reveal(".about-text", { delay: 400 });
-sr.reveal(".container", { delay: 400 });
-
-sr.reveal(".review", { delay: 300 });
-
-sr.reveal(".contact", { delay: 300 });
